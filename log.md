@@ -13,3 +13,12 @@ The initial plan is to build a simple circuit with OpAmps, the jacks and the 5V 
 ## 22/11
 Designed initial simple prototype. Simply takes in an audio signal and outputs the same signal. See `prototype_1.asc` for sim.
 ![PedalBoi Schematic v1](pedalboi_v1.png)
+
+## 25/11
+Refined the initial circuit. Coded distortion effect on Daisy and uploaded it to the board (See `PedalBoi.cpp`). 
+Built out breadboard prototype.
+
+## 28/11 - 29/11
+Changed effect to temporarily be in-out passthrough. Tested Initial breadboard prototype. 
+There is a hum that I *can not* seem to locate the source of, though the guitar signal gets through the daisy. 
+Modularised the breadboard prototype for debugging.
