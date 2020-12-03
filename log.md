@@ -22,3 +22,8 @@ Built out breadboard prototype.
 Changed effect to temporarily be in-out passthrough. Tested Initial breadboard prototype. 
 There is a hum that I *can not* seem to locate the source of, though the guitar signal gets through the daisy. 
 Modularised the breadboard prototype for debugging.
+
+## 02/12
+Swapped out AC power adapter for a 9V battery. This has eliminated most of the AC noise.
+Added a resistor from output circuit to ground -> Eliminates the ground loop when the circuit is off.
+Added a capacitor to the 2nd op amp output of the input circuit to attempt to eliminate stray DC input.
