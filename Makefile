@@ -5,8 +5,8 @@ TARGET = PedalBoi
 CPP_SOURCES = PedalBoi.cpp
 
 # Library Locations
-LIBDAISY_DIR = /Users/elijahrou/Desktop/DaisyExamples/libdaisy
-DAISYSP_DIR = /Users/elijahrou/Desktop/DaisyExamples/DaisySP
+LIBDAISY_DIR = ~/Desktop/DaisyExamples/libdaisy
+DAISYSP_DIR = ~/Desktop/DaisyExamples/DaisySP
 
 # Core location, and generic makefile.
 SYSTEM_FILES_DIR = $(LIBDAISY_DIR)/core
