@@ -21,12 +21,12 @@ Why create something like this? Individual guitar pedals are quite expensive and
 * Live control of effect via an app
 
 ## Usage
-Compile PedalBoi
+Compile PedalBoi.
 ```makefile
 make
 ```
 
-Upload binary to Daisy
+Upload binary to Daisy.
 ```makefile
 make program-dfu
 ```
@@ -88,7 +88,7 @@ The Daisy Seed is a microcontroller specifically designed for audio processing a
 <img src="https://www.tdpri.com/data/attachments/138/138784-bc5a44ecf530def679368944dbd1b3a1.jpg" alt="drawing" width="400"/>
 
 ## Final Build
-The final build comprised of the modified aluminium console containing the breadboard prototypes and 3PDT Switch, secured via 2 screws at the bottom of the console. Any 13-18V DC power source can be used to power the petal via a positive and negative lead extending outside the case.
+The final build comprised of the modified aluminium console containing the breadboard prototypes and 3PDT Switch, secured via 2 screws at the bottom of the console. Any 13-18V DC power source can be used to power the pedal via a positive and negative lead extending outside the case.
 
 <img src="media/PedalBoi_Inside.jpg" alt="drawing" width="400"/>
 <img src="media/PedalBoi_PoC_v1.jpg" alt="drawing" width="400"/>
