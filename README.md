@@ -35,6 +35,7 @@ The schematic was created in [Fritzing](https://fritzing.org).
 ## Final Build
 <img src="media/PedalBoi_Inside.jpg" alt="drawing" width="400"/>
 <img src="media/PedalBoi_PoC_v1.jpg" alt="drawing" width="400"/>
+
 ## Oscilloscope Breadboard Demo
 [![Osc Demo](https://img.youtube.com/vi/5Jb7ozU0aHI/0.jpg)](https://youtu.be/5Jb7ozU0aHI "Oscilloscope Demo")
 
